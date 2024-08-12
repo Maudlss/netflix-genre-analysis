@@ -12,5 +12,5 @@ This project analyzes my Netflix viewing habits to determine my favorite genres.
 - `README.md`: This file, providing an overview of the project.
 
 ## How to View the Dashboard
-You can view the interactive Tableau dashboard [here]([link-to-tableau-dashboard](https://public.tableau.com/app/profile/queensheba.maudleen.jobome/viz/NetflixDashboard_17234766180240/Dashboard1?publish=yes)).
+You can view the interactive Tableau dashboard [here](https://public.tableau.com/app/profile/queensheba.maudleen.jobome/viz/NetflixDashboard_17234766180240/Dashboard1?publish=yes).
 
